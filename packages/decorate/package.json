@@ -1,0 +1,25 @@
+{
+  "name": "decorate",
+  "version": "0.0.0",
+  "description": "decorate",
+  "keywords": [
+    "decorate"
+  ],
+  "author": "se7en00 <seven0_0@126.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "core": "^0.0.0"
+  }
+}
