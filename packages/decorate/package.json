@@ -1,6 +1,6 @@
 {
   "name": "decorate",
-  "version": "0.0.3",
+  "version": "1.0.1",
   "description": "decorate",
   "keywords": [
     "decorate"
@@ -21,5 +21,6 @@
   },
   "dependencies": {
     "core": "^0.0.0"
-  }
+  },
+  "gitHead": "fcd33f2256f5c22aa531193ee666b1a86d051a55"
 }
