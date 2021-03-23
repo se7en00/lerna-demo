@@ -1,5 +1,5 @@
 {
-  "name": "core",
+  "name": "@lerna-demo/core",
   "version": "0.0.4",
   "description": "core",
   "author": "se7en00 <seven0_0@126.com>",
