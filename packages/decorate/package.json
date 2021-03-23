@@ -1,6 +1,6 @@
 {
   "name": "decorate",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "decorate",
   "keywords": [
     "decorate"
@@ -19,6 +19,6 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "core": "^0.0.1"
+    "core": "^0.0.2"
   }
 }

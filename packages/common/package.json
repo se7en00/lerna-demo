@@ -1,6 +1,6 @@
 {
   "name": "common",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "common",
   "author": "se7en00 <seven0_0@126.com>",
   "homepage": "https://github.com/se7en00/lerna-demo#readme",
@@ -22,6 +22,5 @@
   "bugs": {
     "url": "https://github.com/se7en00/lerna-demo/issues"
   },
-  "gitHead": "055606ad3b2133f65e7b362d1bd366fd3131497f",
-  "dependencies": {}
+  "gitHead": "055606ad3b2133f65e7b362d1bd366fd3131497f"
 }
