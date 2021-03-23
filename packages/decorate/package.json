@@ -1,6 +1,6 @@
 {
   "name": "decorate",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "decorate",
   "keywords": [
     "decorate"
@@ -10,17 +10,16 @@
   "license": "ISC",
   "main": "index.js",
   "directories": {
-    "lib": "lib",
     "test": "__tests__"
   },
-  "files": [
-    "lib"
-  ],
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
     "core": "^0.0.0"
   },
-  "gitHead": "fcd33f2256f5c22aa531193ee666b1a86d051a55"
+  "gitHead": "cb5e556ee0ac2e00fd28e40aa1fb4cbd1eed3b68"
 }
