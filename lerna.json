@@ -1,21 +1,20 @@
 {
+  "useWorkspaces": true,
+  "npmClient": "yarn",
   "packages": [
     "packages/*"
   ],
-  "version": "1.0.3",
+  "version": "0.0.1",
   "command": {
+    "bootstrap": {
+      "ignore": ""
+    },
     "publish": {
       "ignoreChanges": [
         "ignored-file",
         "*.md"
       ],
       "message": "chore(release): publish"
-    },
-    "bootstrap": {
-      "ignore": "component-*",
-      "npmClientArgs": [
-        "--no-package-lock"
-      ]
     }
   }
 }

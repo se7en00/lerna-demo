@@ -1,26 +1,27 @@
 {
   "name": "common",
-  "version": "1.0.3",
-  "description": "> TODO: description",
+  "version": "0.0.1",
+  "description": "common",
   "author": "se7en00 <seven0_0@126.com>",
   "homepage": "https://github.com/se7en00/lerna-demo#readme",
   "license": "ISC",
-  "main": "lib/common.js",
+  "main": "src/common.js",
   "directories": {
-    "lib": "lib",
     "test": "__tests__"
   },
-  "files": [
-    "lib"
-  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/se7en00/lerna-demo.git"
+  },
+  "publishConfig": {
+    "access": "public"
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "bugs": {
     "url": "https://github.com/se7en00/lerna-demo/issues"
-  }
+  },
+  "gitHead": "055606ad3b2133f65e7b362d1bd366fd3131497f",
+  "dependencies": {}
 }

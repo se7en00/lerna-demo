@@ -1,6 +1,6 @@
 {
   "name": "decorate",
-  "version": "1.0.3",
+  "version": "0.0.1",
   "description": "decorate",
   "keywords": [
     "decorate"
@@ -18,7 +18,6 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "dependencies": {
-    "core": "^0.0.0"
-  }
+  "gitHead": "055606ad3b2133f65e7b362d1bd366fd3131497f",
+  "dependencies": {}
 }
